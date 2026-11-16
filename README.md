@@ -2,7 +2,7 @@
 
 Senior Software Engineer with 10 years of experience, mostly in frontend platform engineering and the BFF layer. I now also build agentic AI systems: MCP servers, RAG pipelines and chatbots.
 
-📍 Chennai, India · 🔗 [LinkedIn](https://www.linkedin.com/in/kameshwaran-ravichandran/)
+📍 Chennai, India · 🔗 [LinkedIn](https://www.linkedin.com/in/kameshwaran-ravichandran/) · 🌐 [kameshravi.github.io](https://kameshravi.github.io/)
 
 ## What I do
 
